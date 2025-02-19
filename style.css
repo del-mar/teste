@@ -17,6 +17,12 @@
     font-family: "Jost", serif;
 }
 
+.logo img {
+    width: 130px;
+    height: 90px;
+    object-fit: contain;
+}
+
 section {
     padding: 3rem 2rem;
     margin: 0 auto;
